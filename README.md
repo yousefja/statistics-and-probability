@@ -13,5 +13,17 @@ Using content from DataQuest's Data Scientist pathway, this repo contains the fo
                            c. summary statistics
                            d. data analysis 
                            
+
+  **2. Finding the Best Markets To Advertise In**
+    
+      Using information about new coders to determine which countries to advertsise a new e-learning platform
+      
+      Skills and concepts: 
+                           
+                           a. variables
+                           b. frequency distributions 
+                           c. summary statistics
+                           d. data and analysis 
+                           
                           
                          
